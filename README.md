@@ -1,110 +1,74 @@
-```markdown
-# Python Learning Journey 🐍
+# 🐍 Python Learning Journey
 
-Welcome to my personal Python learning repository.  
-This repository documents my journey learning Python step by step. I am uploading exercises, examples, and small projects as I progress from **basic concepts to advanced topics**.
+![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Progress](https://img.shields.io/badge/Status-Learning-orange.svg)
+
+Welcome to my personal **Python Learning Repository**. This project documents my journey from a beginner to an advanced developer, one script at a time.
 
 ---
 
 ## 📌 About This Repository
 
-The main purpose of this repository is to:
+This repository is a structured collection of my exercises, code snippets, and projects. It serves as a:
 
-- Track my progress while learning Python
-- Practice programming regularly
-- Organize exercises and examples in a structured way
-- Build a strong foundation for advanced Python projects
-
----
-
-## 📚 Topics Covered
-
-This repository includes practice and examples for:
-
-- Python Basics
-- Variables and Data Types
-- Operators
-- Conditional Statements (`if`, `else`, `elif`)
-- Loops (`for`, `while`)
-- Functions
-- Lists, Tuples, Sets, Dictionaries
-- File Handling
-- Error Handling
-- Object-Oriented Programming (OOP)
-- Practice Problems
-- Mini Projects
+- ✅ **Progress Tracker:** Visualizing my growth over time.
+- ✅ **Reference Library:** A place to revisit syntax and logic patterns.
+- ✅ **Portfolio:** Showcasing mini-projects built from scratch.
 
 ---
 
 ## 📂 Repository Structure
 
-The repository is organized into folders for easy navigation:
-```
+The code is organized into specific modules for easy navigation:
 
-python-tutorial/
-│
-├── basics/ # Python fundamentals
-├── conditions/ # Conditional statements exercises
-├── loops/ # For and while loops practice
-├── functions/ # Functions and reusable code
-├── data-structures/ # Lists, tuples, dictionaries, sets
-├── oop/ # Object-Oriented Programming examples
-├── projects/ # Mini projects and practice applications
-└── README.md
-
-```
-
-Each folder contains exercises and examples related to the corresponding topic.
-
----
-
-## 🎯 Learning Goals
-
-This repository is intended to help me:
-
-- Learn Python effectively through consistent practice
-- Build a strong foundation from beginner to advanced concepts
-- Gradually apply knowledge to real-world projects
-
----
-
-## ⚡ Progress
-
-This repository is a **work in progress**. It will be continuously updated as I learn new concepts and complete more exercises.
+| Folder             | Description                           |
+| :----------------- | :------------------------------------ |
+| `basics/`          | Syntax, Variables, and Data Types     |
+| `conditions/`      | `if`, `else`, and `elif` logic        |
+| `loops/`           | `for` and `while` iteration practice  |
+| `functions/`       | Reusable code, arguments, and returns |
+| `data-structures/` | Lists, Tuples, Dictionaries, and Sets |
+| `oop/`             | Classes, Objects, and Inheritance     |
+| `projects/`        | Practical applications and mini-games |
 
 ---
 
 ## 🗺️ Learning Roadmap
 
-The roadmap of topics I plan to cover:
+I am following a phased approach to master the language:
 
-1. **Basics**
-   - Python syntax
-   - Variables, data types, and operators
-2. **Control Flow**
-   - Conditional statements
-   - Loops
-3. **Functions**
-   - Defining and calling functions
-   - Arguments, return values, scope
-4. **Data Structures**
-   - Lists, tuples, sets, dictionaries
-   - Common operations and methods
-5. **File Handling**
-   - Reading and writing files
-   - Working with CSV and text files
-6. **Error Handling**
-   - Exceptions
-   - Try/Except blocks
-7. **Object-Oriented Programming (OOP)**
-   - Classes, objects, methods
-   - Inheritance and encapsulation
-8. **Practice Problems**
-   - Small exercises for each topic
-9. **Mini Projects**
-   - Calculator, To-Do List, simple games, etc.
+### 🟩 Phase 1: The Essentials
+
+- [x] Python Syntax & Variables
+- [x] Basic Operators
+- [ ] Conditional Statements
+- [ ] Loops (`for` & `while`)
+
+### 🟦 Phase 2: Logic & Data
+
+- [ ] Functions & Scope
+- [ ] List Comprehensions
+- [ ] Dictionaries & Sets
+- [ ] Error Handling (`try/except`)
+
+### 🟪 Phase 3: Advanced Concepts
+
+- [ ] File I/O (CSV, JSON, TXT)
+- [ ] Object-Oriented Programming (OOP)
+- [ ] Building Mini Projects
 
 ---
 
-⭐ If you are learning Python as well, feel free to explore the examples and exercises in this repository. Any feedback or suggestions are welcome!
-```
+## ⚡ Current Progress
+
+> **Note:** This repository is a **Work in Progress**. I update it almost daily as I complete new exercises and challenges.
+
+---
+
+## 🚀 How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone [https://github.com/your-username/python-tutorial.git](https://github.com/your-username/python-tutorial.git)
+   ```

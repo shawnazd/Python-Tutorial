@@ -1,74 +1,103 @@
-# 🐍 Python Learning Journey
+# Learning Python — Basics to Advanced
 
-![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
-![Progress](https://img.shields.io/badge/Status-Learning-orange.svg)
-
-Welcome to my personal **Python Learning Repository**. This project documents my journey from a beginner to an advanced developer, one script at a time.
+A personal repository documenting my Python learning journey, organized by topic from the ground up.
 
 ---
 
-## 📌 About This Repository
+## Phase 1 — Basics
 
-This repository is a structured collection of my exercises, code snippets, and projects. It serves as a:
-
-- ✅ **Progress Tracker:** Visualizing my growth over time.
-- ✅ **Reference Library:** A place to revisit syntax and logic patterns.
-- ✅ **Portfolio:** Showcasing mini-projects built from scratch.
-
----
-
-## 📂 Repository Structure
-
-The code is organized into specific modules for easy navigation:
-
-| Folder             | Description                           |
-| :----------------- | :------------------------------------ |
-| `basics/`          | Syntax, Variables, and Data Types     |
-| `conditions/`      | `if`, `else`, and `elif` logic        |
-| `loops/`           | `for` and `while` iteration practice  |
-| `functions/`       | Reusable code, arguments, and returns |
-| `data-structures/` | Lists, Tuples, Dictionaries, and Sets |
-| `oop/`             | Classes, Objects, and Inheritance     |
-| `projects/`        | Practical applications and mini-games |
+- Python syntax and how it works
+- Variables and data types (int, float, string, bool)
+- Type conversion
+- Getting user input
+- Basic operators (arithmetic, comparison, logical)
+- String methods and formatting
 
 ---
 
-## 🗺️ Learning Roadmap
+## Phase 2 — Control Flow
 
-I am following a phased approach to master the language:
-
-### 🟩 Phase 1: The Essentials
-
-- [x] Python Syntax & Variables
-- [x] Basic Operators
-- [ ] Conditional Statements
-- [ ] Loops (`for` & `while`)
-
-### 🟦 Phase 2: Logic & Data
-
-- [ ] Functions & Scope
-- [ ] List Comprehensions
-- [ ] Dictionaries & Sets
-- [ ] Error Handling (`try/except`)
-
-### 🟪 Phase 3: Advanced Concepts
-
-- [ ] File I/O (CSV, JSON, TXT)
-- [ ] Object-Oriented Programming (OOP)
-- [ ] Building Mini Projects
+- if, elif, else statements
+- Nested conditions
+- for loops and while loops
+- break, continue, pass
+- Iterating over strings, lists, and ranges
 
 ---
 
-## ⚡ Current Progress
+## Phase 3 — Functions
 
-> **Note:** This repository is a **Work in Progress**. I update it almost daily as I complete new exercises and challenges.
+- Defining and calling functions
+- Parameters and return values
+- Default and keyword arguments
+- Variable scope (local vs global)
+- Lambda functions
+- Recursion basics
 
 ---
 
-## 🚀 How to Use
+## Phase 4 — Data Structures
 
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/python-tutorial.git](https://github.com/your-username/python-tutorial.git)
-   ```
+- Lists — creating, indexing, slicing, methods
+- Tuples — immutable sequences
+- Dictionaries — key-value pairs, methods
+- Sets — unique values, set operations
+- List and dictionary comprehensions
+- Nested data structures
+
+---
+
+## Phase 5 — Error Handling & Files
+
+- try, except, finally
+- Raising custom exceptions
+- Reading and writing text files
+- Working with CSV files
+- Working with JSON files
+
+---
+
+## Phase 6 — Object-Oriented Programming
+
+- Classes and objects
+- `__init__` and instance methods
+- Class vs instance variables
+- Inheritance and method overriding
+- Encapsulation and abstraction
+- Magic/dunder methods (`__str__`, `__len__`, etc.)
+
+---
+
+## Phase 7 — Advanced Topics
+
+- Decorators
+- Generators and iterators
+- Context managers (`with` statement)
+- Modules and packages
+- Virtual environments and pip
+- Regular expressions
+- Working with dates and times
+
+---
+
+## Phase 8 — Projects
+
+- Number guessing game
+- To-do list CLI app
+- File organizer script
+- Weather app using an API
+- Simple web scraper
+
+---
+
+## Run Any File
+
+```bash
+git clone https://github.com/your-username/python-learning.git
+cd python-learning
+python filename.py
+```
+
+---
+
+> Built from scratch. Updated as I learn new things.
